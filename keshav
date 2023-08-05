@@ -1,0 +1,30 @@
+total 64
+-rw-rw-r-- 1 chitransh chitransh    0 Aug  3 10:10 18]
+-rw-rw-r-- 1 chitransh chitransh  127 Jul 25 21:20 1opt.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Jul 14 12:27 abc10.txt
+-rw-rw-r-- 1 chitransh chitransh   88 Jul 25 21:09 abc1.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Jul 14 12:27 abc2.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Jul 14 12:27 abc3.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Jul 14 12:27 abc4.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Jul 14 12:27 abc5.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Jul 14 12:27 abc6.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Jul 14 12:27 abc7.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Jul 14 12:27 abc8.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Jul 14 12:27 abc9.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Jul 13 19:48 chitransh.cpp
+-rw-rw-r-- 1 chitransh chitransh  192 Jul 29 11:00 databse.txt
+-rw-rw-r-- 1 chitransh chitransh   51 Jul 20 13:07 demo.sh
+-rw-rw-r-- 1 chitransh chitransh 2926 Jul 20 13:03 enviroment.txt
+-rwxrwxr-x 1 chitransh chitransh   83 Aug  3 10:14 f2.sh
+-rwxrwxr-x 1 chitransh chitransh  159 Aug  3 10:25 file.sh
+drwxrwxr-x 2 chitransh chitransh 4096 Jul 13 19:29 folder1
+drwxrwxr-x 2 chitransh chitransh 4096 Jul 13 19:46 folder2
+-rw-rw-r-- 1 chitransh chitransh  191 Jul 25 21:59 greptext.txt
+-rw-rw-r-- 1 chitransh chitransh  325 Jul 13 19:57 hello.txt
+-rw-rw-r-- 1 chitransh chitransh  325 Jul 13 20:00 h.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Aug  4 09:29 keshav
+-rw-rw-r-- 1 chitransh chitransh   49 Jul 13 20:00 nano.txt
+-rw-rw-r-- 1 chitransh chitransh    0 Jul 25 21:15 opt.txt
+drwxrwxr-x 2 chitransh chitransh 4096 Aug  3 22:29 Shell Scripting
+-rwxrwxr-x 1 chitransh chitransh  256 Aug  3 09:58 shell.sh
+-rw-rw-r-- 1 chitransh chitransh 1320 Jul 29 08:46 text.txt
